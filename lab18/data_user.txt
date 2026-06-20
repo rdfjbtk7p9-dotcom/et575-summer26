@@ -1,0 +1,2 @@
+This is my output file – Destiny Hicks.
+This is a new line passed as an argument!

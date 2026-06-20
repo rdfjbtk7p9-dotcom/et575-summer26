@@ -1,0 +1,2 @@
+This text completely replaces what was inside this file.
+This is a new line passed as an argument!
